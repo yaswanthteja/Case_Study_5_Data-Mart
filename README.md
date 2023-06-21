@@ -1,3 +1,10 @@
+
+# [8-Week SQL Challenge](https://github.com/yaswanthteja/SQL_Case_Studies)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/yaswanthteja/SQL_Case_Studies#sql_case_studies)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
+
 # Case Study #5: Data Mart
 
 <img src="https://user-images.githubusercontent.com/81607668/131437982-fc087a4c-0b77-4714-907b-54e0420e7166.png" alt="Image" width="500" height="520">
@@ -51,7 +58,7 @@ Each record in the dataset is related to a specific aggregated slice of the unde
 
 ### A. Data Cleansing Steps
 
-View my solution [here](https://github.com/yaswanthteja/).
+View my solution [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/A.%20Data%20Cleansing%20Steps.md).
 
 In a single query, perform the following operations and generate a new table in the `data_mart` schema named `clean_weekly_sales`:
 - Convert the `week_date` to a `DATE` format
@@ -76,7 +83,7 @@ In a single query, perform the following operations and generate a new table in 
 
 ### B. Data Exploration 
 
-View my solution [here](https://github.com/yaswanthteja/).
+View my solution [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/B.%20Data%20Exploration.md).
 
 1. What day of the week is used for each week_date value?
 2. What range of week numbers are missing from the dataset?
@@ -92,7 +99,7 @@ View my solution [here](https://github.com/yaswanthteja/).
 
 ### C. Before & After Analysis 
 
-View my solution [here](https://github.com/yaswanthteja/).
+View my solution [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/C.%20Before%20%26%20After%20Analysis.md).
 
 This technique is usually used when we inspect an important event and want to inspect the impact before and after a certain point in time.
 
@@ -107,7 +114,7 @@ Using this analysis approach - answer the following questions:
 
 ### D. Bonus Question
 
-View my solution [here](https://github.com/yaswanthteja/).
+View my solution [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/D.%20Bonus%20Question.md).
 
 Which areas of the business have the highest negative impact in sales metrics performance in 2020 for the 12 week before and after period?
 - `region`
