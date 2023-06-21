@@ -198,4 +198,4 @@ The more accurate answer to find average transaction size for each year by platf
 
 ***
 
-Click [here](https://github.com/yaswanthteja/) for solution to **C. Before & After Analysis**!
+Click [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/C.%20Before%20%26%20After%20Analysis.md) for solution to **C. Before & After Analysis**!
