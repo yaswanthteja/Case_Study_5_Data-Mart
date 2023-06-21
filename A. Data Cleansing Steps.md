@@ -74,4 +74,4 @@ FROM data_mart.weekly_sales);
 
 ***
 
-Click [here](https://github.com/yaswanthteja/) for **B. Data Exploration** solution!
+Click [here](https://github.com/yaswanthteja/Case_Study_5_Data-Mart/blob/main/B.%20Data%20Exploration.md) for **B. Data Exploration** solution!
